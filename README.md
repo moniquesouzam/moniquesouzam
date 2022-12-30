@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monique Souza</h1>
-<h3 align="center">Data Analyst and Manual Digital Artist(I like drawing on my ipad)</h3>
+<h3 align="center">Data Analyst and Digital Artist(I like drawing on my ipad)</h3>
 
 
 <p align="left">
