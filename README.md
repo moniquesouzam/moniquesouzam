@@ -36,4 +36,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
 </p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moniquesouzam&theme=dark" alt="moniquesouzam" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=moniquesouzam&theme=dark" alt="moniquesouzam" />
+
