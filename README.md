@@ -1,3 +1,4 @@
+<img height="200" width="1148" alt="banner" src="https://user-images.githubusercontent.com/114799503/211701201-7a1be22c-6c75-49dd-bb81-e1792141ff81.png">
 <h1 align="center">Hi 👋, I'm Monique Souza</h1>
 <h3 align="center">Data Analyst and Digital Artist(I like drawing on my ipad)</h3>
 
