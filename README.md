@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in problem-solving and drawing insight from data that can help build actionable solutions.
 
-- 🔭 I’m currently working on and NYC Evictions Analysis.
+- 🔭 I’m currently working on updating some information on my NYC Evictions Analysis project.
 
 - 🌱 I’m currently learning python, pandas, seaborn, numpy and matplotlib.
 
