@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on updating some information on my NYC Evictions Analysis project.
 
-- 🌱 I’m currently learning python, pandas, seaborn, numpy and matplotlib.
+- 🌱 I’m currently learning python, pandas and advancing my skills in sql.
 
 - ⚡ Fun fact **I like to cook and spend time with my family.**
 
